@@ -1,0 +1,6 @@
+export interface Object {
+    userId: number;
+    id: number;
+    title: string;
+    completed: boolean
+}
